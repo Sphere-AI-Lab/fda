@@ -71,3 +71,15 @@ sh construct.sh
 This repository uses codes and resources from [Task Arithmetic](https://github.com/mlfoundations/task_vectors?tab=readme-ov-file), [DARE](https://github.com/yule-BUAA/MergeLM), [TSVM](https://github.com/AntoAndGar/task_singular_vectors), [WUDI](https://github.com/nathanielyvo/WUDI-Merging), [Prodistill](https://github.com/JingXuTHU/Scalable_Model_Merging_with_Progressive_Layerwise_Distillation).
 
 ## Citation
+If you find this work useful, please consider citing:
+
+```bibtex
+@article{shi2025modelmergingfunctionaldual,
+  title     = {Model Merging with Functional Dual Anchors},
+  author    = {Shi, Kexuan and Wen, Yandong and Liu, Weiyang},
+  year      = {2025},
+  journal   = {arXiv preprint arXiv:2510.21223},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.LG},
+  url       = {https://arxiv.org/abs/2510.21223}
+}
