@@ -1,7 +1,7 @@
 # Model Merging with Functional Dual Anchors
 This repository is the official PyTorch implementation of “Model Merging with Functional Dual Anchors”, by Kexuan Shi, Yandong Wen, Weiyang Liu.
 
-([arxiv](https://arxiv.org/pdf/2401.07402.pdf))
+([arxiv](https://arxiv.org/pdf/2510.21223))
 
 <p align="center">
   <img src="docs/assets/framework_trajectory.png" width="90%" />
