@@ -4,6 +4,10 @@ export OMP_NUM_THREADS=2
 
 export PYTHONPATH="$PYTHONPATH:$PWD"
 
+# Different seeds may require different FDA adaptation epochs.
+# A small grid search is enough: {5, 15, 25, 50, 75, 100, 125}.
+# Adaptation in NLP is fast, so the search is cheap.
+
 # for base model
 
 # init_by_gauss_random_pos
